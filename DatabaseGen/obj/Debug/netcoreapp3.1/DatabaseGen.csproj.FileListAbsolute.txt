@@ -1,0 +1,13 @@
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\bin\Debug\netcoreapp3.1\DatabaseGen.exe
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\bin\Debug\netcoreapp3.1\DatabaseGen.deps.json
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\bin\Debug\netcoreapp3.1\DatabaseGen.runtimeconfig.json
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\bin\Debug\netcoreapp3.1\DatabaseGen.runtimeconfig.dev.json
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\bin\Debug\netcoreapp3.1\DatabaseGen.dll
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\bin\Debug\netcoreapp3.1\DatabaseGen.pdb
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\obj\Debug\netcoreapp3.1\DatabaseGen.csprojAssemblyReference.cache
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\obj\Debug\netcoreapp3.1\DatabaseGen.AssemblyInfoInputs.cache
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\obj\Debug\netcoreapp3.1\DatabaseGen.AssemblyInfo.cs
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\obj\Debug\netcoreapp3.1\DatabaseGen.csproj.CoreCompileInputs.cache
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\obj\Debug\netcoreapp3.1\DatabaseGen.dll
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\obj\Debug\netcoreapp3.1\DatabaseGen.pdb
+C:\Users\Krijn\source\repos\DatabaseGen\DatabaseGen\obj\Debug\netcoreapp3.1\DatabaseGen.genruntimeconfig.cache
